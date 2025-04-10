@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # citydata
 
 **Ouvrez un terminal et clonez le projet :**
@@ -39,3 +40,6 @@ git push origin main
 git checkout -- db.sqlite3 : remplace la version locale par celle du dernier commit
 
 git pull origin main
+=======
+# citydata
+>>>>>>> origin/main
