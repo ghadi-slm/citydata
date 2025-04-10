@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# citydata
+# City Data
 
 **Ouvrez un terminal et clonez le projet :**
 
